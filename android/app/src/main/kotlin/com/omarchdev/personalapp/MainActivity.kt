@@ -1,4 +1,4 @@
-package com.example.personal_app
+package com.omarchdev.personalapp
 
 import io.flutter.embedding.android.FlutterActivity
 
